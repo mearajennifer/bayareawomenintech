@@ -268,7 +268,7 @@ All groups/events are free unless otherwise specified.
 ## Education/Boot Camps (not free)
 
 * [HackBright Academy](https://hackbrightacademy.com/)
-	* 10 week full-time python coding boot camp for women
+	* 12 week full-time (or 24 week part-time) python coding boot camp for women
 * [mothercoders](http://www.mothercoders.org/) - SF and Berkeley/Oakland
 	* A tech orientation program designed for women with kids
 * [Techtonica](http://techtonica.org/)
